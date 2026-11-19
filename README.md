@@ -16,10 +16,10 @@ Memfasilitasi fitur sinkronisasi data antar akun (antara Akun Utama dan Sub-Akun
 Meningkatkan pengalaman pengguna dan keamanan sistem aplikasi.
 
 3. Keamanan Data
-Kami menerapkan standar keamanan yang ketat untuk melindungi data pribadi dan keuangan Anda. Data Anda dikelola menggunakan infrastruktur server yang aman (Firebase/Google Cloud) dengan enkripsi standar industri untuk memastikan bahwa Keamanan Data Terjamin dan terlindungi dari akses yang tidak sah.
+Kami menerapkan standar keamanan yang ketat untuk melindungi data pribadi dan keuangan Anda. Data Anda dikelola menggunakan infrastruktur server yang aman dengan enkripsi standar industri untuk memastikan bahwa Keamanan Data Terjamin dan terlindungi dari akses yang tidak sah.
 
 4. Pembagian Informasi dengan Pihak Ketiga
-Kami tidak menjual, memperdagangkan, atau menyewakan informasi pribadi Anda kepada pihak ketiga. Data Anda hanya diproses melalui layanan penyedia infrastruktur tepercaya (seperti Google Firebase) yang membantu kami menjalankan operasional aplikasi.
+Kami tidak menjual, memperdagangkan, atau menyewakan informasi pribadi Anda kepada pihak ketiga. Data Anda hanya diproses melalui layanan penyedia infrastruktur tepercaya yang membantu kami menjalankan operasional aplikasi.
 
 5. Perubahan Kebijakan Privasi
 Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap perubahan akan diumumkan melalui pembaruan pada halaman ini dengan tanggal efektif yang baru.
